@@ -1,0 +1,35 @@
+body {
+  font-family: arial;
+  background-color: white;
+}
+
+#container {
+  background-color: white;
+  margin: 10px 10px;
+  padding: 35px 25px;
+  border: 1px solid black;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6em;
+}
+
+h2 {
+  font-family: arial;
+  color:
+    black;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
